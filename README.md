@@ -1,7 +1,12 @@
 # Highlighters for Logseq Plugin
 Add more colors for highlight in Logseq **using slash commands**
 
-**_You can find how to install the plugin at the end of the text._**
+## Installation
+
+- Clone the repo
+- Open the _plugin_ option in Logseq Desktop Client
+- Select **Load unpacked plugin** in Logseq Desktop client
+- Open the _src_ folder of the repo.
 
 **You can edit the color and options of the higlights, by adding and editing this variables in your own theme or your _custom.css_ inside the dark and light theme.**
 ```css
@@ -41,9 +46,4 @@ Add more colors for highlight in Logseq **using slash commands**
 ![Slash Gif](imgs/Highlighters.gif)
 
 
-## Installation
 
-- Clone the repo
-- Open the _plugin_ option in Logseq Desktop Client
-- Select **Load unpacked plugin** in Logseq Desktop client
-- Open the _src_ folder of the repo.
