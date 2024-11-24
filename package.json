@@ -3,9 +3,9 @@
   "author": "Denaro",
   "version": "0.0.1",
   "description": "More colors for Highlight",
-  "main": "./index.html",
+  "main": "src/index.html",
   "logseq": {
     "id": "Highlighters_by_denaro",
-    "icon": "./Highlighter.png"
+    "icon": "src/Highlighter.png"
   }
 }
