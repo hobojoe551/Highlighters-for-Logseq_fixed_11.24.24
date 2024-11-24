@@ -1,6 +1,11 @@
 # Highlighters for Logseq Plugin
 Add more colors for highlight in Logseq **using slash commands**
 
+Small fix implemented to make the plugin work in 2024. 
+
+Credits to this guy on the logseq forum who knew how to fix the plugin - 
+https://discuss.logseq.com/t/css-mod-custom-colors-for-highlighting-bold-and-italics/308/4?u=hobojoe551
+
 ## Installation
 
 - Clone the repo
